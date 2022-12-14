@@ -1,0 +1,10 @@
+# Grafo Dirigido No 002 Gr 0003
+# Matematicas Discretas II 2022
+# JAPeTo
+GDLA
+2   4
+5
+5   6
+2
+4
+6

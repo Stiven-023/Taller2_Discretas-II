@@ -1,0 +1,11 @@
+# Grafo Dirigido No 006 Gr 0001
+# Matematicas Discretas II 2022
+# JAPeTo
+GDMA
+0   0   1   0   0   0   0
+1   0   1   0   0   0   0
+0   0   0   0   1   0   0
+0   0   1   0   1   0   0
+0   0   0   0   0   1   0
+0   0   0   1   0   0   1
+0   0   0   0   1   0   0

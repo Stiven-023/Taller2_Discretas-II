@@ -1,0 +1,9 @@
+# Grafo No 001 Gr 0001
+# Matematicas Discretas II 2022
+# JAPeTo
+GNMA
+0   1   0   1   0
+1   0   1   0   1
+0   1   0   1   0
+1   0   1   0   1
+0   1   0   1   0
